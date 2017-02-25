@@ -11,6 +11,6 @@ end
 if i == "Z" and tmp1 >= 1
 tmp2 = count
 end
-end
+endq
 
 puts tmp2 - tmp1 + 1
